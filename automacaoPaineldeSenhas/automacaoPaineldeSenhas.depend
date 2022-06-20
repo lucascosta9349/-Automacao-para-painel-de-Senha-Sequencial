@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1655757710 source:c:\users\lucas\documents\github\-automacao-para-painel-de-senha-sequencial\automacaopaineldesenhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1655757610 c:\users\lucas\documents\github\-automacao-para-painel-de-senha-sequencial\automacaopaineldesenhas\header.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
